@@ -1,0 +1,2 @@
+Los hilos no trabajan correctamente, en cada ejecucion variaba como comia cada comensal.
+Fallaba porque se generaba una race condition.
